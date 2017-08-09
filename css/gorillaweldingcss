@@ -7,6 +7,10 @@ html {
 *:after {
     box-sizing: inherit;
 }
+header {
+    margin-top: 20px;
+  
+}
 nav ul {
     margin: 0;
     padding: 0;
@@ -20,6 +24,11 @@ nav a {
     text-align: center;
     text-decoration: none;
     
+}
+.logo {
+    width: 150px;
+   display: block;
+    margin: 0 auto; 
 }
 @media only screen and (min-width: 875px) {
     nav {

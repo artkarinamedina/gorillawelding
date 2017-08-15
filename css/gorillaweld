@@ -1,12 +1,4 @@
-html {
-    box-sizing: border-box;
-}
 
-*,
-*:before,
-*:after {
-    box-sizing: inherit;
-}
 header {
     margin-top: 20px;
   

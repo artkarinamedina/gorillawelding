@@ -7,53 +7,61 @@ html {
 *:after {
     box-sizing: inherit;
 }
+
 body {
     background-color: #1E94D2;
 }
+
 header {
     margin-top: 20px;
-  
+
 }
+
 nav ul {
     margin: 0;
     padding: 0;
     list-style-type: none;
-    
-   
+
 }
+
 nav a {
     display: block;
     margin-bottom: 10px;
     padding: 10px 0;
     text-align: center;
     text-decoration: none;
-    color:black;
-    
+    color: black;
+
 }
+
 .logo {
     width: 150px;
-   display: block;
-    margin: 0 auto; 
+    display: block;
+    margin: 0 auto;
 }
+
 @media only screen and (min-width: 875px) {
     nav {
         float: right;
         width: 600px;
-        
-        
+
     }
-    header{
+
+    header {
         margin-left: 30px;
     }
+
     nav a {
-       
+
         float: left;
         padding-right: 20px;
-        color:black;
-        
+        color: black;
+
     }
-     .logo {
-    width: 150px;
-   display: inline-block;
- 
+
+    .logo {
+        width: 150px;
+        display: inline-block;
+    }
+
 }

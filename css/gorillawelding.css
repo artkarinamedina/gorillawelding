@@ -8,7 +8,7 @@ html {
     box-sizing: inherit;
 }
 body {
-    background-image: url("image/back.png");
+    background-image: url("../image/back.png");
 }
 header {
     margin-top: 20px;

@@ -75,9 +75,7 @@ nav a {
 .bottom{
     display: block;
 }
-.icon{
-    width: 20%;
-}
+
 
 @media only screen and (min-width: 875px) {
     nav {
@@ -113,7 +111,5 @@ nav a {
     .icons{
      text-align: center;
 }
-.icon{
-    width: 70%;
-}
+
 }

@@ -72,6 +72,13 @@ nav a {
     right: 0;
     
 }
+.bottom{
+    display: block;
+}
+.icon{
+    width: 15%;
+}
+
 @media only screen and (min-width: 875px) {
     nav {
         float: right;
@@ -93,5 +100,20 @@ nav a {
     width: 320px;
    display: inline-block;
  
+}
+    .center{
+    padding-left: 0;
+}
+
+.bottom{
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+    .icons{
+     text-align: center;
+}
+.icon{
+    width: 30%;
 }
 }
